@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Github By Herdi</string>
+    <string name="search_user">Search User</string>
+    <string name="name">Nama User</string>
+    <string name="username">Username User</string>
+    <string name="followers">99</string>
+    <string name="following">99</string>
+    <string name="text">By Herdi Yusli</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="alamat">Alamat User</string>
+    <string name="company">Kantor User</string>
+    <string name="repository">99</string>
+    <string name="setting">setting</string>
+    <string name="favorit">favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="repositorytxt">Repository</string>
+    <string name="followingtxt">Following</string>
+    <string name="followerstxt">Followers</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="favoriteadd">Add To Favorite</string>
+    <string name="fav_empty">Masih Kosong</string>
+</resources>

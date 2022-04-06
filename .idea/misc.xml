@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/drawable-v24/searchview_background_orange.xml" value="0.10625" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/drawable/favorite_button.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/drawable/ic_baseline_favorite_full_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/drawable/ic_baseline_home_work_24.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/drawable/searchview_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/drawable/searchview_background_orange.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/drawable/searchview_bg.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/drawable/toggle_button_fav.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/layout/activity_detail_profile_user.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/layout/activity_favorite.xml" value="0.22" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/layout/activity_theme_settings.xml" value="0.33" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/layout/fragment_follow_viewpager.xml" value="0.1" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/layout/shape_list_user.xml" value="0.25" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/menu/actionbar_menu.xml" value="0.22" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/menu/settings_menu.xml" value="0.1" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/heruy/AndroidStudioProjects/GithubAppHerdiYusli/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22552083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
