@@ -19,3 +19,47 @@ Fitur atau hal apa saja yang diterapkan pada project ini diantaranya adalah:
 - Mengimplementasikan Room untuk menyimpan data ke dalam daftar favorite. alur untuk mengakses database yang saya gunakan : </br>View -> ViewModel -> Repository -> RoomDAO
 - Menggunakan DataStore untuk penyimpanan pengaturan tema (DarkMode).
 - UI Test Menggunakan Espresso.
+
+### Screenshots Light Theme
+<img src="https://github.com/herdiyusli/github-user-app/blob/master/ScreenShots/light/1.png"
+     alt="Light1"
+     style="float: left; margin-right: 20px;"
+     width="200" />
+<img src="https://github.com/herdiyusli/github-user-app/blob/master/ScreenShots/light/2.png"
+     alt="Light2"
+     style="float: left; margin-right: 20px;"
+     width="200" />
+<img src="https://github.com/herdiyusli/github-user-app/blob/master/ScreenShots/light/3.png"
+     alt="Light3"
+     style="float: left; margin-right: 20px;"
+     width="200" />
+<img src="https://github.com/herdiyusli/github-user-app/blob/master/ScreenShots/light/4.png"
+     alt="Light4"
+     style="float: left; margin-right: 20px;"
+     width="200" />
+<img src="https://github.com/herdiyusli/github-user-app/blob/master/ScreenShots/light/5.png"
+     alt="Light5"
+     style="float: left; margin-right: 20px;"
+     width="200" />
+
+### Screenshots Dark Theme
+<img src="https://github.com/herdiyusli/github-user-app/blob/master/ScreenShots/dark/1.png"
+     alt="Dark1"
+     style="float: left; margin-right: 20px;"
+     width="200" />
+<img src="https://github.com/herdiyusli/github-user-app/blob/master/ScreenShots/dark/2.png"
+     alt="Dark2"
+     style="float: left; margin-right: 20px;"
+     width="200" />
+<img src="https://github.com/herdiyusli/github-user-app/blob/master/ScreenShots/dark/3.png"
+     alt="Dark3"
+     style="float: left; margin-right: 20px;"
+     width="200" />
+<img src="https://github.com/herdiyusli/github-user-app/blob/master/ScreenShots/dark/4.png"
+     alt="Dark4"
+     style="float: left; margin-right: 20px;"
+     width="200" />
+<img src="https://github.com/herdiyusli/github-user-app/blob/master/ScreenShots/dark/5.png"
+     alt="Dark5"
+     style="float: left; margin-right: 20px;"
+     width="200" />
